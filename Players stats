@@ -1,0 +1,12 @@
+{
+  "DANTE": {"ataque": 88, "defesa": 74, "finalizacao": 90, "forma": 0.85},
+  "CHASER": {"ataque": 80, "defesa": 78, "finalizacao": 86, "forma": 0.78},
+  "BLITZ": {"ataque": 92, "defesa": 70, "finalizacao": 88, "forma": 0.82},
+  "TEMPEST": {"ataque": 79, "defesa": 83, "finalizacao": 80, "forma": 0.76},
+  "EMPEROR": {"ataque": 85, "defesa": 75, "finalizacao": 87, "forma": 0.81},
+  "DIVINE": {"ataque": 87, "defesa": 74, "finalizacao": 89, "forma": 0.84},
+  "GREED": {"ataque": 91, "defesa": 69, "finalizacao": 91, "forma": 0.83},
+  "HORIZON": {"ataque": 84, "defesa": 76, "finalizacao": 85, "forma": 0.79},
+  "THREAT": {"ataque": 78, "defesa": 80, "finalizacao": 77, "forma": 0.75},
+  "POWER": {"ataque": 86, "defesa": 72, "finalizacao": 84, "forma": 0.80}
+}
